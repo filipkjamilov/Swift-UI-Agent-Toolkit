@@ -4,7 +4,6 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS%2017+-blue.svg)](https://developer.apple.com/xcode/swiftui/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -275,23 +274,6 @@ Contributions are welcome! If you have:
 - Bug fixes in code snippets
 
 Please open an issue or submit a pull request.
-
----
-
-## 📄 License
-
-This project is available under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## 🌟 Acknowledgments
-
-Created with ❤️ by developers, for developers (and AI agents).
-
-Special thanks to:
-- The Swift and SwiftUI community
-- Apple's excellent documentation
-- All contributors and users of this toolkit
 
 ---
 
